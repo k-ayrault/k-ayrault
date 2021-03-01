@@ -4,6 +4,16 @@
 
 #### Je m'appelle Kévin AYRAULT, je suis actuellement en dernière année de DUT Informatique à l'IUT du Limousin de l'Université de Limoges. Je suis à la recherche d'une entreprise dans le but de faire une licence professionnel développeur d'application web et big data, à l'Université de Limoges, en alternance.  
 
+## Compétences 
+
+#### HTML5/CSS3 :star: :star: :star: :star: 
+
+#### PHP :star: :star: :star: :star: 
+
+#### JAVA :star: :star: :star: 
+
+#### C++ :star: :star: :star: 
+
 ## Me contacter
 
 #### Vous pouvez me contacter via 
