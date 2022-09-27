@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Bienvenue sur mon profil Github !<br>👨 Je m'appelle AYRAULT Kévin et je suis un développeur web de 20 ans<br>📃 J'ai effectué un DUT Informatique suivi d'une Licence Professionnelle - Développeur d'Applications Web et Big Data en alternance à l'IUT du Limousin de l'Université de Limoges<br>📍   Je suis actuellement sur Limoges 
+👋 Bienvenue sur mon profil Github !<br>👨 Je m'appelle AYRAULT Kévin et je suis un développeur web de 21 ans<br>📃 J'ai effectué un DUT Informatique suivi d'une Licence Professionnelle - Développeur d'Applications Web et Big Data en alternance à l'IUT du Limousin de l'Université de Limoges<br>📍   Je suis actuellement sur Limoges 
 
 
 ## 🌐 Socials:
